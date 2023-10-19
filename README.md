@@ -4,9 +4,8 @@
 
 
                                
-[![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)
-
-[![introduction to IBM z/os](./introduction-to-ibm-z-os.png)](https://www.credly.com/badges/06d578f8-44dc-4664-a374-1f13b88df7db/public_url)
+[![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)   CISCO PYTHON CERTIFICATION                                                                                    
+[![introduction to IBM z/os](./introduction-to-ibm-z-os.png)](https://www.credly.com/badges/06d578f8-44dc-4664-a374-1f13b88df7db/public_url) IBM Z/OS CERTIFICATION
 
 👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
 
