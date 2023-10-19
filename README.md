@@ -3,7 +3,7 @@
 🌐 [www.kenyaconnects.me] | 📧 [freddieolesaruni@gmail.com] | 📱 [+254704062393]
                                                     AMOUR OF HONORS
 
-[![Python Essentials 1](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)
+[![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)
 
 👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
 
