@@ -5,6 +5,8 @@
 
 [![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)
 
+[![introduction to IBM z/os](./introduction-to-ibm-z-os.png)](https://www.credly.com/badges/06d578f8-44dc-4664-a374-1f13b88df7db/public_url)
+
 👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
 
 🚀 As a developer, I'm constantly building exciting projects, ranging from web applications and mobile apps to open-source contributions. I'm well-versed in a variety of programming languages, frameworks, and technologies. You can explore my work here on GitHub, where I'm always open to collaboration and feedback.
