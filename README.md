@@ -1,8 +1,9 @@
 👨‍💻 **Developer | 🐛 Bug Bounty Hunter | 🛡️ Penetration Tester**
 
 🌐 [www.kenyaconnects.me] | 📧 [freddieolesaruni@gmail.com] | 📱 [+254704062393]
-                                                    AMOUR OF HONORS
 
+
+                               
 [![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)
 
 [![introduction to IBM z/os](./introduction-to-ibm-z-os.png)](https://www.credly.com/badges/06d578f8-44dc-4664-a374-1f13b88df7db/public_url)
