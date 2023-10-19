@@ -3,7 +3,8 @@
 🌐 [www.kenyaconnects.me] | 📧 [freddieolesaruni@gmail.com] | 📱 [+254704062393]
                                                     AMOUR OF HONORS
 
-![(https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)]
+[![Credily Badge](https://www.credily.com/badge/your-badge)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)
+
 👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
 
 🚀 As a developer, I'm constantly building exciting projects, ranging from web applications and mobile apps to open-source contributions. I'm well-versed in a variety of programming languages, frameworks, and technologies. You can explore my work here on GitHub, where I'm always open to collaboration and feedback.
