@@ -18,33 +18,26 @@
   </kbd>
 </p>
   
+
 <!-- Outer collapsible -->  
-<details>
+<!----- <details>
    <summary><b>↕️ Expand for more!</b></summary>
   
-   <br>
+   <br>   ---->
    
 <!-- About Section -->
 <details>
   <summary><b>👤 About</b></summary>
     <p>
       <img align="right" width="250" src="IMAGE" alt="Fredrick ole saruni" />
-       👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
+            
+👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
 
-🚀 As a developer, I'm constantly building exciting projects, ranging from web applications and mobile apps to open-source contributions. I'm well-versed in a variety of programming languages, frameworks, and technologies. You can explore my work here on GitHub, where I'm always open to collaboration and feedback.
+🚀 As a developer, You can have a look at my [➡️ Full Tech Stack](https://github.com/L1QU3D/NeonLoginPage/blob/main/TECH-STUCK.md)
 
-🐞 When I'm not crafting code, I don my "bug bounty hunter" hat. I enjoy the thrill of ethical hacking, finding vulnerabilities, and helping organizations improve their security. I've successfully contributed to the security of numerous platforms and networks, and I continue to seek out new challenges.
+🐞 When I'm not crafting code, I do my "bug bounty hunter" hat. I enjoy the thrill of ethical hacking, finding vulnerabilities, and helping organizations improve their security.
 
 🔒 In the realm of penetration testing, I'm dedicated to identifying vulnerabilities in systems and networks, performing security assessments, and fortifying digital infrastructures. Cybersecurity is a passion that fuels my drive to make the digital world a safer place.
-
-💬 Feel free to reach out if you want to discuss anything related to development, cybersecurity, or just want to connect. Let's build, break, and secure the digital landscape together!
-
-🌟 **Highlights:**
-- 💻 Experienced Developer
-- 🕵️‍♂️ Ethical Hacker
-- 🛠️ Penetration Tester
-- 🌐 Web & Mobile App Enthusiast
-- 🌍 Open Source Advocate
 
     
        
@@ -75,7 +68,7 @@
   </details>
       <!-- Blog Posts -->
 <details>
-  <summary><b>📰 Latest Blog Posts</b></summary>
+  <summary><b>📰 ACHIEVMENTS </b></summary>
     <p>
        
 <a href="https://www.kenyaconnects.me"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="L1QU3D Blog" /></a>
@@ -204,9 +197,12 @@ l1OXLQikQ2XDd/eaMCC3j/6F9h02CHz82AaSzOFLG/NyOx+Edh4EjlyslDro3OYS
 
 
 
-
-<!-- Snek -->   
+<!-- Snek -->  
+  <details>
+  <summary><b>⚡ Wow Look At This</b></summary>
 <p align="center">
+ 
+      
 <a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
