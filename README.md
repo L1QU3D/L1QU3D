@@ -71,11 +71,17 @@
   <summary><b>📰 ACHIEVMENTS </b></summary>
     <p>
        
-<a href="https://www.kenyaconnects.me"><img align="right" width="120" src="https://i.ibb.co/fkpSwVg/liss-bot-round.png" alt="L1QU3D Blog" /></a>
-                              
-[![Python Essentials 1](./python-essentials-1.1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)   CISCO PYTHON CERTIFICATION                                                                                    
-[![introduction to IBM z/os](./introduction-to-ibm-z-os.png)](https://www.credly.com/badges/06d578f8-44dc-4664-a374-1f13b88df7db/public_url) IBM Z/OS CERTIFICATION
-      
+This repository showcases a collection of my certifications.
+
+## Certifications
+
+ | Badge | DIGITAL BADGES | Description |
+| ------------ | ----------- | ----- |
+ [![Python Essentials 1](./Certification/python-essentials-1.png)](https://www.credly.com/badges/c7f8e359-72d5-4052-9fc7-8bdb3d061614/public_url)  | [Python Essentials 1 ](./Certification/Python_Essentials-1.pdf).  | Cisco's Python Essentials 1 certification: Mastery of Python basics, key for network automation and scripting |
+| [![Python Essentials-2 ](./Certification/Python-Essentials-2.png)](https://www.credly.com/badges/6339f8e3-ddf1-4d30-86bc-1f05c663ca0e/public_url)| [Python Essentials 2](./Certification/Python_Essentials-1.pdf) |. It builds upon the foundational knowledge gained in Python Essentials 1 and takes your Python skills to a more advanced level, specifically tailored for networking, automation, and scripting within Cisco's networking environment. |
+| [![Introduction To Cybersecutiy](./Certification/introduction-to-cybersecurity.png)](https://www.credly.com/badges/631b6ba8-d617-4f5a-be29-89b2819f707b/public_url). | [Introduction to Cybersecurity](./Certification/Introduction_to_Cybersecurity.pdf) | It provides foundational knowledge and skills necessary to understand the principles, threats, and practices related to safeguarding digital assets and data |
+
+     
 </details>   
 
 
