@@ -29,7 +29,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="IMAGE" alt="Fredrick ole saruni" />
+     
             
 👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
 
