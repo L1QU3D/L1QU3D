@@ -39,7 +39,7 @@
 
 🔒 In the realm of penetration testing, I'm dedicated to identifying vulnerabilities in systems and networks, performing security assessments, and fortifying digital infrastructures. Cybersecurity is a passion that fuels my drive to make the digital world a safer place.
 
-    
+</details>
        
        
 <!-- Tech Stack -->  
