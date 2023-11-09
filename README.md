@@ -85,16 +85,7 @@ This repository showcases a collection of my certifications.
 </details>   
 
 
-  <!-- Metrics -->
-<details>
-  <summary><b>📊 Metrics</b></summary>
-    <p>
 
-<a href="https://github.com/Lissy93/Lissy93/blob/master/METRICS.md">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/summary.svg" alt="General Stats">
-   <img  width="400" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/metrics/habits.svg" alt="Coding Habits">
-</a>
-<br /><br /><br />
        
 
 
@@ -103,16 +94,38 @@ This repository showcases a collection of my certifications.
 </p>
 </details>
 
-<!-- Recent Activity -->
+<!-- Recent Activity --
 <details>
   <summary><b>⚡ Recent Activity</b></summary>
     <p>
             
 <a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=L1QU3D' alt='Astro Dab'></a>
 
-
+-->
 
 </details>
+
+  <!-- Metrics -->
+
+  <b>📊 Metrics</b>
+  ### GitHub Analytics
+ 
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=L1QU3D&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=L1QU3D&theme=react" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=L1QU3D&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1QU3D&layout=compact&langs_count=7&theme=dracula"/>
+
+
+<br /><br /><br />
+<!-- Snek -->  
+ 
+  <b>⚡ Wow Look At This</b>
+<p align="center">
+ 
+      
+<a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
+
+
 
 <!--
 
@@ -201,15 +214,3 @@ l1OXLQikQ2XDd/eaMCC3j/6F9h02CHz82AaSzOFLG/NyOx+Edh4EjlyslDro3OYS
     
 
 
-
-
-<!-- Snek -->  
-  <details>
-  <summary><b>⚡ Wow Look At This</b></summary>
-<p align="center">
- 
-      
-<a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
-</p>
-
-</details>
