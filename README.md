@@ -66,7 +66,7 @@
   </details>
 
   </details>
-      <!-- Blog Posts -->
+      <!-- Achievements -->
 <details>
   <summary><b>📰 ACHIEVMENTS </b></summary>
     <p>
@@ -82,14 +82,7 @@ This repository showcases a collection of my certifications.
 | [![Introduction To Cybersecutiy](./Certification/introduction-to-cybersecurity.png)](https://www.credly.com/badges/631b6ba8-d617-4f5a-be29-89b2819f707b/public_url). | [Introduction to Cybersecurity](./Certification/Introduction_to_Cybersecurity.pdf) | It provides foundational knowledge and skills necessary to understand the principles, threats, and practices related to safeguarding digital assets and data |
 
      
-</details>   
-
-
-
-       
-
-
-**[➡️ More Metrics](/METRICS.md)**
+</details> 
 
 </p>
 </details>
@@ -112,19 +105,15 @@ This repository showcases a collection of my certifications.
  
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=L1QU3D&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=L1QU3D&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=L1QU3D&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1QU3D&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1QU3D&layout=compact&langs_count=7&theme=dracula"/>
 
 
-<br /><br /><br />
 <!-- Snek -->  
  
   <b>⚡ Wow Look At This</b>
-<p align="center">
- 
-      
+<p align="center">    
 <a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
-
 
 
 <!--
