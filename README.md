@@ -24,13 +24,6 @@
 </p>
   
 
-<!-- Outer collapsible -->  
-<!----- <details>
-   <summary><b>↕️ Expand for more!</b></summary>
-  
-   <br>   ---->
-   
-
   <b>👤 About</b>
 <p align="center">
  
@@ -45,7 +38,7 @@
   <!-- Metrics -->
   ### GitHub Analytics
  
-<img width="490" src="https://github-readme-stats.vercel.app/api?username=L1QU3D&count_private=true&show_icons=true&theme=react" />  <img width="510" src="https://streak-stats.demolab.com/?user=L1QU3D&theme=react" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=L1QU3D&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=L1QU3D&theme=react" />
 <p align="center"> 
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
