@@ -1,6 +1,11 @@
 
 <!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 FREDRICK OLE SARUNI</h1>
+<h1 align="center" title="...and I'm happy to see you here :)">FREDRICK SARUNI  </a></h1>
+<p align="center">
+
+ <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%20L1QU3D%20;&font=Fira%20Code&center=true&width=440&height=45&color=6A5ACD&vCenter=true&pause=1000&size=22" />
+</p>
 
 <!-- Contact and keys -->
 <p align="center">
@@ -25,47 +30,173 @@
   
    <br>   ---->
    
-<!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-    <p>
-     
-            
-👋 Hey there! I'm [Fredrick Saruni], a passionate developer and cybersecurity enthusiast. With a knack for solving complex problems and a commitment to enhancing digital security, I thrive on creating and breaking things in the tech world.
 
-🚀 As a developer, You can have a look at my [➡️ Full Tech Stack](https://github.com/L1QU3D/NeonLoginPage/blob/main/TECH-STUCK.md)
-
-🐞 When I'm not crafting code, I do my "bug bounty hunter" hat. I enjoy the thrill of ethical hacking, finding vulnerabilities, and helping organizations improve their security.
-
-🔒 In the realm of penetration testing, I'm dedicated to identifying vulnerabilities in systems and networks, performing security assessments, and fortifying digital infrastructures. Cybersecurity is a passion that fuels my drive to make the digital world a safer place.
+  <b>👤 About</b>
+<p align="center">
+ 
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
+</p>
+       
+      
 
 </details>
-       
-       
-<!-- Tech Stack -->  
-<details>
-  <summary><b>🛠️ Tech Stack</b></summary>
-    <p>
 
-| **Category** | **Technologies** |
-| - | - |
-**Frontend** | [![Vue.js](https://img.shields.io/static/v1?label=&message=Vue.js&color=4FC08D&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/) [![Svelte](https://img.shields.io/static/v1?label=&message=Svelte&color=FF3E00&logo=svelte&logoColor=FFFFFF)](https://svelte.dev/) [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/) [![Astro](https://img.shields.io/static/v1?label=&message=Astro&color=a545f0&logo=astro&logoColor=FFFFFF)](https://astro.build/)<br>[![Angular](https://img.shields.io/static/v1?label=&message=Angular&color=DD0031&logo=angular&logoColor=FFFFFF)](https://angularjs.org/) [![D3.js](https://img.shields.io/static/v1?label=&message=D3.js&color=F9A03C&logo=d3dotjs&logoColor=FFFFFF)](https://d3js.org/)
-**Core** | [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/) [![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=0175C2&logo=dart&logoColor=FFFFFF)](https://dart.dev/) [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net/) [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/) [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=go&logoColor=FFFFFF)](https://go.dev/) [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=nodedotjs&logoColor=FFFFFF)](https://nodejs.org/)
-**Mobile** | [![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=flutter&logoColor=FFFFFF)](https://flutter.dev/) [![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=android&logoColor=FFFFFF)](https://developer.android.com/) [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=7F52FF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) [![Swift](https://img.shields.io/static/v1?label=&message=Swift&color=F05138&logo=swift&logoColor=FFFFFF)](https://www.swift.org/)
-**Cloud** | [![Azure](https://img.shields.io/static/v1?label=&message=Azure&color=0078D4&logo=microsoftazure&logoColor=FFFFFF)](https://azure.microsoft.com/) [![Heroku](https://img.shields.io/static/v1?label=&message=Heroku&color=430098&logo=heroku&logoColor=FFFFFF)](https://heroku.com/) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/) [![Google Cloud](https://img.shields.io/static/v1?label=&message=GCP&color=4285F4&logo=googlecloud&logoColor=FFFFFF)](https://cloud.google.com/)
-**DevOps** | [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://docker.com/) [![Ansible](https://img.shields.io/static/v1?label=&message=Ansible&color=EE0000&logo=ansible&logoColor=FFFFFF)](https://www.ansible.com/) [![CircleCI](https://img.shields.io/static/v1?label=&message=CircleCI&color=343434&logo=circleci&logoColor=FFFFFF)](https://circleci.com/)
-**Testing** | [![Selenium](https://img.shields.io/static/v1?label=&message=Selenium&color=43B02A&logo=selenium&logoColor=FFFFFF)](https://www.selenium.dev/) [![Cypress](https://img.shields.io/static/v1?label=&message=Cypress&color=17202C&logo=cypress&logoColor=FFFFFF)](https://www.cypress.io/) [![Jest](https://img.shields.io/static/v1?label=&message=Jest&color=C21325&logo=jest&logoColor=FFFFFF)](https://jestjs.io/)
-**Misc** | [![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&logo=linux&logoColor=FFFFFF)](https://www.linux.org/) [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=000000&logo=markdown&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-**Editors** | [![Vim](https://img.shields.io/static/v1?label=&message=Vim&color=019733&logo=vim&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
-      
- See **[➡️ Full Tech Stack](https://github.com/L1QU3D/NeonLoginPage/blob/main/TECH-STUCK.md)**, for a list of projects using each of the above technologies
-
-----      
-
+  <!-- Metrics -->
+  ### GitHub Analytics
+ 
+<img width="490" src="https://github-readme-stats.vercel.app/api?username=L1QU3D&count_private=true&show_icons=true&theme=react" />  <img width="510" src="https://streak-stats.demolab.com/?user=L1QU3D&theme=react" />
+<p align="center"> 
+ 🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
-  </details>
+<p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
+  <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40" /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /></a>
+  <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40" /></a>
+  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40" /></a>
+<a href="https://www.linux.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="50" height="50" /></a>
+<a href="https://www.apple.com/macos/sonoma/" target="_blank"><img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macos" width="40" height="40" /></a>
+</p>
 
-  </details>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
+      <br>Django
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
+      <br>Android
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
+      <br>WordPress
+    </td>
+              <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
+      <br>Dotnet
+  <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>SQLite
+    </td>
+              <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+</table>
+<br><br>
+
+
+
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=L1QU3D&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1QU3D&layout=compact&langs_count=7&theme=dracula"/>
+
+
+
+
+
+---
+
+<p align="center">
       <!-- Achievements -->
 <details>
   <summary><b>📰 ACHIEVMENTS </b></summary>
@@ -81,40 +212,20 @@ This repository showcases a collection of my certifications.
 | [![Python Essentials-2 ](./Certification/Python-Essentials-2.png)](https://www.credly.com/badges/6339f8e3-ddf1-4d30-86bc-1f05c663ca0e/public_url)| [Python Essentials 2](./Certification/Python_Essentials-1.pdf) |. It builds upon the foundational knowledge gained in Python Essentials 1 and takes your Python skills to a more advanced level, specifically tailored for networking, automation, and scripting within Cisco's networking environment. |
 | [![Introduction To Cybersecutiy](./Certification/introduction-to-cybersecurity.png)](https://www.credly.com/badges/631b6ba8-d617-4f5a-be29-89b2819f707b/public_url). | [Introduction to Cybersecurity](./Certification/Introduction_to_Cybersecurity.pdf) | It provides foundational knowledge and skills necessary to understand the principles, threats, and practices related to safeguarding digital assets and data |
 
+<!-- Tech Stack -->  
+
+    
+ [➡️ Full Tech Stack](https://github.com/L1QU3D/NeonLoginPage/blob/main/TECH-STUCK.md)
+
+
      
 </details> 
-
 </p>
-</details>
-
-<!-- Recent Activity --
-<details>
-  <summary><b>⚡ Recent Activity</b></summary>
-    <p>
-            
-<a href="/METRICS.md"><img align='right' width='300' src='https://github-contribution-stats.vercel.app/api/?username=L1QU3D' alt='Astro Dab'></a>
-
--->
-
-</details>
-
-  <!-- Metrics -->
-
-  <b>📊 Metrics</b>
-  ### GitHub Analytics
- 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=L1QU3D&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=L1QU3D&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=L1QU3D&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1QU3D&layout=compact&langs_count=7&theme=dracula"/>
-
-
-<!-- Snek -->  
- 
-  <b>⚡ Wow Look At This</b>
 <p align="center">    
-<a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+<a href="https://gitstar-ranking.com/L1QU3D" title="Snek 🐍"><img width="900" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
 </p>
 
+<p align="center" color="FA8072">YOU FRIEND FREDRICK SARUNI</p>
 
 <!--
 
