@@ -11,6 +11,7 @@
 <p align="center">
 <a href="mailto:freddieolesaruni@gmail.com" title="Email Address"><code>freddieolesaruni at gmail dot com</code></a> │ <a href="https://keybase.io/l1qu3d/pgp_keys.asc?fingerprint=9dd73682759d0c37d2af3648bd4f77236f80fb64" title="PGP Public Key"><code>BD4F 7723 6F80 FB64</code></a> │
 </p>
+
 <!-- Socials -->
 <p align="center">
    <kbd>
@@ -205,10 +206,13 @@ This repository showcases a collection of my certifications.
 | [![Python Essentials-2 ](./Certification/Python-Essentials-2.png)](https://www.credly.com/badges/6339f8e3-ddf1-4d30-86bc-1f05c663ca0e/public_url)| [Python Essentials 2](./Certification/Python_Essentials-1.pdf) |. It builds upon the foundational knowledge gained in Python Essentials 1 and takes your Python skills to a more advanced level, specifically tailored for networking, automation, and scripting within Cisco's networking environment. |
 | [![Introduction To Cybersecutiy](./Certification/introduction-to-cybersecurity.png)](https://www.credly.com/badges/631b6ba8-d617-4f5a-be29-89b2819f707b/public_url). | [Introduction to Cybersecurity](./Certification/Introduction_to_Cybersecurity.pdf) | It provides foundational knowledge and skills necessary to understand the principles, threats, and practices related to safeguarding digital assets and data |
 
+
 <!-- Tech Stack -->  
 
     
  [➡️ Full Tech Stack](https://github.com/L1QU3D/NeonLoginPage/blob/main/TECH-STUCK.md)
+
+ [![committers.top badge](https://user-badge.committers.top/kenya/L1QU3D.svg)](https://user-badge.committers.top/kenya/L1QU3D)
 
 
      
