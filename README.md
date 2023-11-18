@@ -32,7 +32,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=SOFTWARE%20ENGINEER%20;ETHICAL%20HACKER%20;FULL-STACK%20WEB%20AND%20APP%20DEVELOPER;ARTIFICIAL%20INTELLIGENCE (AI);PROGRAMMER%20;YOUTUBER%20;EXPERIENCED%20UI%2FUX%20DESIGNER;3%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&center=true&width=440&height=45&color=20C20E&vCenter=true&pause=1000&size=22" /></a>
 </p>
        
-      
+   <a href="https://github.com/L1QU3D/github-profile-views-counter">
+   <img src="https://komarev.com/ghpvc/?username=L1QU3D">
+</a>
+    <a href="https://github.com/L1QU3D?tab=followers">
+        <img src="https://img.shields.io/github/followers/L1QU3D?label=Followers&style=social" alt="GitHub Badge">
+    </a>  
 
 </details>
 
