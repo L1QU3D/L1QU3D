@@ -229,6 +229,10 @@ This repository showcases a collection of my certifications.
 
 <p align="center" color="FA8072">YOU FRIEND FREDRICK SARUNI</p>
 
+<a href="./MY-RESUME.pdf"> <img width="20%" height="20%" src="./componentes/download.gif"/> </a>
+ 
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
 
 <!--
