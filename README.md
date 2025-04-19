@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Decoding+Legendary+Technomancer;Chronicles+of+L1QU3D;Restoring+Cyber+Scrolls...;Analyzing+Arcane+Fragments..." />
 </p>
 
+<!-- Sponsor Button -->
+<p align="center">
+  <a href="https://github.com/sponsors/L1QU3D">
+    <img src="https://img.shields.io/badge/Sponsor-L1QU3D-ff69b4?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+  </a>
+</p>
+
 <h1 align="center" style="font-family: 'Cinzel Decorative', cursive;">📖 THE ARCHIVED LEGEND OF 🪄 FREDRICK SARUNI • L1QU3D 🐉</h1>
 
 <p align="center">
@@ -17,11 +24,11 @@
 
 > *"When the Network fractured and reality bent, one coder bound the realms with AI and spellware."* — Anonymous Archivist, Vault 17
 
-- ✴️ Initiated into the Code Guild in the 21st Century
-- 🔮 Wielder of Full-Stack Sorcery (React, Python, C++, etc.)
-- 🧠 Cyber Gladiator | Ranked Among Top 25 in CTF Arenas
-- ⚔️ Defender of Digital Realms (Ethical Hacker Order)
-- 🛠️ Crafted Agents from Artificial Intelligences
+- ✴️ Initiated into the Code Guild in the 21st Century  
+- 🔮 Wielder of Full-Stack Sorcery (React, Python, C++, etc.)  
+- 🧠 Cyber Gladiator | Ranked Among Top 25 in CTF Arenas  
+- ⚔️ Defender of Digital Realms (Ethical Hacker Order)  
+- 🛠️ Crafted Agents from Artificial Intelligences  
 - 🪐 Founder of the Agency Known Only As: [SavannahPrime](https://savannahprime.software)
 
 ---
